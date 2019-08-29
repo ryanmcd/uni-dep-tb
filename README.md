@@ -5,6 +5,10 @@ NB: The guidelines are currently under revision and the project is migrating to
   http://universaldependencies.github.io/docs/.
 For further updates, check the new site or contact the project coordinators.
 
+**v2.1**
+
+* Identical to version 2.0, except changes license to CC-BY-SA (drops non-commercial aspect of license). This applies solely to the UD annotations, not the underlying content.
+  
 **v2.0**
 
 * Includes Brazilian-Portuguese, English, Finnish, French, German, Italian, Indonesian, Japanese, Korean, Spanish and
